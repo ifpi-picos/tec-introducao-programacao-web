@@ -5,7 +5,7 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 **Sumário**
 - [Introdução a Programação para Web](#introdução-a-programação-para-web)
   - [Agenda](#agenda)
-  - [Visão geral](#visão-geral)
+  - [Objetivo do curso](#objetivo-do-curso)
   - [Objetivos de aprendizagem detalhados](#objetivos-de-aprendizagem-detalhados)
   - [Pré-Requisitos](#pré-requisitos)
   - [Ementa](#ementa)
@@ -21,7 +21,7 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 
 
 
-## Visão geral
+## Objetivo do curso
 
 Este curso é uma introdução à programação para Web. Vamos aprender sobre os principais componentes da web, sobre o modelo cliente-servidor e de forma simplificada vamos entender como a internet e a web funcionam. E, principalmente, **vamos aprender como desenvolver aplicações web usando várias tecnologias**, tais como:
 
