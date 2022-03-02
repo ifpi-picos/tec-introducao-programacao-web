@@ -46,8 +46,8 @@ No processo de aprendizado dessas tecnologias, você também vai:
 1. Compreender a sintaxe e o papel da CSS para o desenvolvimento web, assim como conhecer suas principais propriedades;
 1. Entender a sintaxe e o papel da Javascript para o desenvolvimento web no lado cliente;
 1. Entender o funcionamento do Document Object Model (DOM) e aprender a manipulá-lo;
-1. Aprender a desenvolver aplicações web estáticas usando HTML, CSS e Javascript;
-1. Aprender a desenvolver aplicações web dinâmicas usando HTML, CSS e Javascript;
+1. Aprender a desenvolver aplicações web estáticas e responsivas com HTML e CSS;
+1. Aprender a desenvolver aplicações web dinâmicas e responsivas com HTML, CSS e Javascript;
 1. Ser capaz de desenvolver aplicações web seguindo os padrões de boas práticas e usabilidade da web.
 1. Desenvolver habilidades técnicas para construção de aplicações web conforme os requisitos do cliente;
 1. Desenvolver habilidades interpessoais para realização de trabalho em equipe e colaboração em projetos de desenvolvimento de software.
