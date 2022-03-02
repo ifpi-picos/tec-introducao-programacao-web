@@ -68,7 +68,7 @@ No processo de aprendizado dessas tecnologias, você também vai:
 6. Introdução à Javascript;
 7. Páginas web dinâmicas com HTML, CSS e Javascript;
 8. Integração com APIs externas;
-9.  Hospedagem de páginas web na nuvem.
+9.  Hospadagem de aplicações web na nuvem.
 
 ## Ferramentas 
 
