@@ -1,12 +1,12 @@
-# Nome da Disciplina
+# Introdução a Programação para Web
 
-Este material faz parte da disciplina de <nome da disciplina> do Curso <nome do curso> do Instituto Federal do Piauí (IFPI) Campus Picos.
+Este material faz parte da disciplina de Introdução a Programação para Web do Curso Técnico em Informática do Instituto Federal do Piauí (IFPI) Campus Picos.
 
 **Sumário**
-- [Nome da Disciplina](#nome-da-disciplina)
+- [Introdução a Programação para Web](#introdução-a-programação-para-web)
   - [Agenda](#agenda)
   - [Visão geral](#visão-geral)
-  - [Objetivos de Aprendizagem](#objetivos-de-aprendizagem)
+  - [Objetivos de aprendizagem detalhados](#objetivos-de-aprendizagem-detalhados)
   - [Pré-Requisitos](#pré-requisitos)
   - [Ementa](#ementa)
   - [Ferramentas](#ferramentas)
@@ -23,21 +23,34 @@ Este material faz parte da disciplina de <nome da disciplina> do Curso <nome do 
 
 ## Visão geral
 
-Este curso apresenta os conceitos fundamentais da Web e como utilizar suas tecnologias básicas (HTML, CSS e Javascript) para criação de aplicativos. No decorrer do curso o aluno vai ver como os conceitos fundamentais das tecnologias web podem ser aplicados para desenvolver software da Web real. 
+Este curso é uma introdução à programação para Web. Vamos aprender sobre os principais componentes da web, sobre a relação entre clientes e servidores, como funciona a internet e a web, e como as páginas da web são construídas usando várias tecnologias:
 
-Além dos conceitos, o aluno demonstrará sua competência no desenvolvimento da Web desenvolvendo software dinâmico da Web com as tecnologias de programação mais comumente usadas.
+- Hypertext Transfer Protocol (HTTP) como protocolo de comunicação;
+- HyperText Markup Language (HTML) para criação de páginas web;
+- Cascading Style Sheets (CSS) para aplicar estilo às páginas web;
+- JavaScript (JS) para criar páginas da web dinâmicas e interativas;
+- Web Design Responsivo para criar páginas web adaptativas a diferentes resoluções de tela; e
+- JavaScript assíncrono (AJAX) e JSON para interação entre aplicações Web.
 
-A metodologia de desenvolvimento do curso é baseada no Problem-Based Learning (PBL), cujo objetivo é trabalhar e desenvolver conhecimentos e habilidades técnicas, além de desenvolver habilidades interpessoais, tais como trabalho em equipe, comunicação, gerenciamento de tempo e resolução de problemas reais.
+No processo de aprendizado dessas tecnologias, você também vai:
 
-Após concluir este curso, você compreenderá o funcionamento da Web e estará capacitado para resolver problemas que envolva o projeto e implementação de páginas Web utilizando HTML, CSS e Javascript.
+- Praticar a habilidade de ler documentações detalhadas, ler e escrever código legível, bem documentado e estruturado;
+- Aprender a pesquisar e avaliar soluções de forma adequada;
+- Ter a oportunidade de desenvolver um portfólio individual para mostrar aos possíveis empregadores.
 
-## Objetivos de Aprendizagem
+## Objetivos de aprendizagem detalhados
 
-* Compreender o funcionamento da Web e demonstrar um entendimento do modelo cliente-servidor;
-* Desenvolver software da Web usando tecnologias específicas, incluindo HTML, CSS e Javascript.
-* Desenvolver habilidades e técnicas para criar interfaces de páginas Web responsivas e com boa usabilidade;
-* Desenvolver habilidades técnicas para construção de soluções conforme os requisitos do cliente, incluindo critérios de avaliação de usabilidade e acessibilidade;
-* Desenvolver habilidades de trabalho em equipe, para poder colaborar profissionalmente com seu parceiro de projeto contribuindo para o sucesso do mesmo.
+* Conhecer a história do surgimento e expansão da Internet e Web;.
+* Conhecer os principais componentes da web e compreender o seu funcionamento de forma simplificada.
+* Compreender a sintaxe e o papel da HTML para o desenvolvimento web, assim como conhecer seus principais elementos;
+* Compreender a sintaxe e o papel da CSS para o desenvolvimento web, assim como conhecer suas principais propriedades;
+* Entender a sintaxe e o papel da Javascript para o desenvolvimento web do lado cliente;
+* Entender o funcionamento do Document Object Model (DOM) e aprender a manipulá-lo;
+* Aprender a desenvolver aplicações web estáticas usando HTML, CSS e Javascript;
+* Aprender a desenvolver aplicações web dinâmicas usando HTML, CSS e Javascript;
+* Ser capaz de desenvolver aplicações web seguindo os padrões de boas práticas e usabilidade da web.
+* Desenvolver habilidades técnicas para construção de aplicações web conforme os requisitos do cliente;
+* Desenvolver habilidades interpessoais para realização de trabalho em equipe e colaboração em projetos de desenvolvimento de software.
 
 ## Pré-Requisitos
 
@@ -55,8 +68,7 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 6. Introdução à Javascript;
 7. Páginas web dinâmicas com HTML, CSS e Javascript;
 8. Integração com APIs externas;
-9. Testes automatizados; e
-10. Hospedagem de páginas web na nuvem.
+9.  Hospedagem de páginas web na nuvem.
 
 ## Ferramentas 
 
