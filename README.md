@@ -23,7 +23,7 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 
 ## Visão geral
 
-Este curso é uma introdução à programação para Web. Vamos aprender sobre os principais componentes da web, sobre a relação entre clientes e servidores, como funciona a internet e a web, e como as páginas da web são construídas usando várias tecnologias:
+Este curso é uma introdução à programação para Web. Vamos aprender sobre os principais componentes da web, sobre o modelo cliente-servidor e de forma simplificada vamos entender como a internet e a web funcionam. E, principalmente, **vamos aprender como desenvolver aplicações web usando várias tecnologias**, tais como:
 
 - Hypertext Transfer Protocol (HTTP) como protocolo de comunicação;
 - HyperText Markup Language (HTML) para criação de páginas web;
@@ -34,9 +34,9 @@ Este curso é uma introdução à programação para Web. Vamos aprender sobre o
 
 No processo de aprendizado dessas tecnologias, você também vai:
 
-- Praticar a habilidade de ler documentações detalhadas, ler e escrever código legível, bem documentado e estruturado;
-- Aprender a pesquisar e avaliar soluções de forma adequada;
-- Ter a oportunidade de desenvolver um portfólio individual para mostrar aos possíveis empregadores.
+- Praticar a habilidade de ler documentações detalhadas, **ler e escrever código legível**, bem documentado e estruturado;
+- Aprender a **pesquisar e avaliar soluções** de forma adequada;
+- Ter a oportunidade de **desenvolver um portfólio individual** para mostrar aos possíveis empregadores.
 
 ## Objetivos de aprendizagem detalhados
 
@@ -44,7 +44,7 @@ No processo de aprendizado dessas tecnologias, você também vai:
 * Conhecer os principais componentes da web e compreender o seu funcionamento de forma simplificada.
 * Compreender a sintaxe e o papel da HTML para o desenvolvimento web, assim como conhecer seus principais elementos;
 * Compreender a sintaxe e o papel da CSS para o desenvolvimento web, assim como conhecer suas principais propriedades;
-* Entender a sintaxe e o papel da Javascript para o desenvolvimento web do lado cliente;
+* Entender a sintaxe e o papel da Javascript para o desenvolvimento web no lado cliente;
 * Entender o funcionamento do Document Object Model (DOM) e aprender a manipulá-lo;
 * Aprender a desenvolver aplicações web estáticas usando HTML, CSS e Javascript;
 * Aprender a desenvolver aplicações web dinâmicas usando HTML, CSS e Javascript;
