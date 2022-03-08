@@ -13,7 +13,7 @@ Prof. Jesiel Viana
 ---
 
 ## Objetivos da aula
-- Conhecer a história do surgimento e expansão da Internet e Web;
+- Entender o surgimento e expansão da Internet e Web;
 - Entender os conceitos da Internet e Web e diferenciá-los.
 
 ---
@@ -75,6 +75,12 @@ Já a **Web** chegou ao Brasil em **1995** com a popularização da Internet.
 ---
 
 Podemos descrever a **Internet** como uma **infraestrutura** formada por uma **rede global de computadores**, enquanto a **Web é um serviço/aplicação** construído para funcionar sobre essa infraestrutura.
+
+---
+
+## Objetivos da aula
+- Entender o surgimento e expansão da Internet e Web ✅
+- Entender os conceitos da Internet e Web e diferenciá-los ✅
 
 ---
 ## @jesielviana
