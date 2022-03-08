@@ -15,9 +15,12 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
   - [Autor](#autor)
 
 ## Agenda 
-| Aula | Data      | Assunto                         | Material                              |
-| ---- | --------- | ------------------------------- | ------------------------------------- |
-| 1    | 7/03/2022 | Apresentação do plano de ensino | [slides](slides/1-plano-de-ensino.md) |
+| Aula | Data       | Assunto                            | Material                                                                                                                                                                                         |
+| ---- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | 8/03/2022  | Plano de ensino e Introdução a Web | [plano de ensino](slides/1-plano-de-ensino.md), [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md) |
+| 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                                                                                             |
+| 3    | 15/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                                                                                               |
+| 4    | 18/03/2022 | Acompanhamento de aprendizagem     | [modelo](https://jesielviana.notion.site/fef18d9a3de1416a857ab913f570bdf4?v=1621aeaa1d134224907e79ae464e6ad5)                                                                                    |
 
 
 
