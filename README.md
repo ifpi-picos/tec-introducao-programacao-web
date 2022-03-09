@@ -15,12 +15,12 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
   - [Autor](#autor)
 
 ## Agenda 
-| Aula | Data       | Assunto                            | Material                                                                                                                                                                                         |
-| ---- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Aula | Data       | Assunto                            | Material                                                                                                            |
+| ---- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 1    | 8/03/2022  | Plano de ensino e Introdução a Web | [plano de ensino](slides/1-plano-de-ensino.md), [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md) |
-| 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                                                                                             |
-| 3    | 15/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                                                                                               |
-| 4    | 18/03/2022 | Acompanhamento de aprendizagem     | [modelo](https://jesielviana.notion.site/fef18d9a3de1416a857ab913f570bdf4?v=1621aeaa1d134224907e79ae464e6ad5)                                                                                    |
+| 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                |
+| 3    | 15/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                  |
+| 4    | 18/03/2022 | Acompanhamento de aprendizagem     | [modelo](https://jesielviana.notion.site/fef18d9a3de1416a857ab913f570bdf4?v=1621aeaa1d134224907e79ae464e6ad5)       |
 
 
 
@@ -107,7 +107,7 @@ Este material é mantido por Jesiel Viana.
 Jesiel Viana é Mestre em Engenharia de Software pela Cesar School, Professor de Computação no Instituto Federal do Piauí - IFPI e Pesquisador Bolsista no IBICT. Possui mais de 10 anos de experiência em desenvolvimento web na indústria e academia. 
 
 Jesiel Viana é um [Github Campus Advisor](https://education.github.com/teachers/advisors), possui a certificação [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/b53a6b6d-baae-4fa3-88d6-1550d33e1e0a/public_url) e é um [Alura Stars](https://www.alura.com.br/stars).
-* Linkedin: [https://linkedin.com/in/jesielviana](https://linkedin.com/in/jesielviana])
+* Linkedin: [https://linkedin.com/in/jesielviana](https://linkedin.com/in/jesielviana)
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
 * Blog:  [https://jesielviana.com](https://www.jesielviana.com)
