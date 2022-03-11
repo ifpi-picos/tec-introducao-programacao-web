@@ -17,10 +17,12 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 ## Agenda 
 | Aula | Data       | Assunto                            | Material                                                                                                            |
 | ---- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    | 8/03/2022  | Plano de ensino e Introdução a Web | [plano de ensino](slides/1-plano-de-ensino.md), [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md) |
+| 1    | 7/03/2022  | Plano de ensino e Introdução a Web | [plano de ensino](slides/1-plano-de-ensino.md), [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md) |
 | 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html), [slides](slides/3-html.md)                                    |
-| 3    | 15/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                  |
+| 3    | 15/03/2022 | HTML semântico  e CSS              | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                  |
 | 4    | 18/03/2022 | Acompanhamento de aprendizagem     | [modelo](https://jesielviana.notion.site/fef18d9a3de1416a857ab913f570bdf4?v=1621aeaa1d134224907e79ae464e6ad5)       |
+| 5    | 21/03/2022 | Como a Web funciona                | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                               |
+| 6    | 25/03/2022 | Acompanhamento de aprendizagem     | [modelo](https://jesielviana.notion.site/fef18d9a3de1416a857ab913f570bdf4?v=1621aeaa1d134224907e79ae464e6ad5)       |
 
 
 
