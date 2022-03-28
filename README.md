@@ -21,9 +21,10 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 | 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html), [slides](slides/3-html.md)                                    |
 | 3    | 15/03/2022 | HTML semântico                     | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                |
 | 4    | 18/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css), [slides](slides/4-css.md)                                       |
-| 4    | 22/03/2022 | CSS Flexbox                        | [CSS flexbox](https://origamid.com/projetos/flexbox-guia-completo/)                                                 |
-| 4    | 25/03/2022 | HTML e CSS                         | -                                                                                                                   |
-| 5    | 29/03/2022 | Como a Web funciona                | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                               |
+| 5    | 22/03/2022 | CSS Flexbox                        | [CSS flexbox](https://origamid.com/projetos/flexbox-guia-completo/)                                                 |
+| 6    | 25/03/2022 | HTML e CSS                         | -                                                                                                                   |
+| 7    | 29/03/2022 | Colocando páginas web online       | -                                                                                                                   |
+| 5    | 01/04/2022 | Como a Web funciona                | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                               |
 
 
 
