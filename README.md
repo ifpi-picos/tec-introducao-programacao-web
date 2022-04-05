@@ -25,7 +25,7 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 | 6    | 25/03/2022 | Prática HTML e CSS                 | -                                                                                                                   |
 | 7    | 29/03/2022 | HTML e CSS no Repl.it              | -                                                                                                                   |
 | 8    | 01/04/2022 | Acompanhamento da atividade 1      | -                                                                                                                   |
-| 9    | 04/04/2022 | Como a Web funciona                | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                               |
+| 9    | 05/04/2022 | Atividade 2                        | [Atividade portfólio](atividades/portifolio.md)                                                                     |
 
 
 
