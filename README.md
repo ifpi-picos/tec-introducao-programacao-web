@@ -26,6 +26,10 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
 | 7    | 29/03/2022 | HTML e CSS no Repl.it              | -                                                                                                                   |
 | 8    | 01/04/2022 | Acompanhamento da atividade 1      | -                                                                                                                   |
 | 9    | 05/04/2022 | Atividade 2                        | [Atividade portfólio](atividades/portifolio.md)                                                                     |
+| 10   | 12/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
+| 11   | 19/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
+| 12   | 26/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
+| 13   | 29/04/2022 | Web Design Responsivo              | [Design Responsivo](https://webdev.jesielviana.com/frontend/web-design-responsivo)                                  |
 
 
 
