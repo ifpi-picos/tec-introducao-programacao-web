@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: Inter,-apple-system,BlinkMacSystemFont,"Avenir Next",Avenir,"Helvetica Neue",Helvetica,Ubuntu,Roboto,Noto,"Segoe UI",Arial,sans-serif;
+}
+
+.topo{
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3rem 2.5rem;
+  align-items: center;
+}
+
+.topo div{
+  width: 33%;
+  display: flex;
+}
+
+.menu{
+  justify-content: flex-start;
+}
+
+.logo{
+  justify-content: center;
+}
+
+.login{
+  justify-content: flex-end;
+}
+
+.topo ul{
+  display: flex;
+  align-items: center;
+}
+
+.topo ul li{
+  list-style: none;
+  padding: 0 1rem;
+}
+
+.topo ul li:first-child{
+  border-right: 1px solid #ccc;
+}
+
+.topo ul li a{
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  text-decoration: none;
+  color: #2f3134;
+  height: 44px;
+}
+
+nav{
+  height: 40px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  width: 150vw;
+}
