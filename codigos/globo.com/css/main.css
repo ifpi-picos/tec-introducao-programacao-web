@@ -7,6 +7,10 @@ body{
   font-family: Inter,-apple-system,BlinkMacSystemFont,"Avenir Next",Avenir,"Helvetica Neue",Helvetica,Ubuntu,Roboto,Noto,"Segoe UI",Arial,sans-serif;
 }
 
+img{
+  max-width: 100%;
+}
+
 .topo{
   display: flex;
   justify-content: space-between;
@@ -119,4 +123,41 @@ main section{
 main section h2{
   border-bottom: 1px solid #eee;
   padding-bottom: 1rem;
+}
+
+.bg-g1{
+  background-color: #c4170c;
+}
+.bg-ge{
+  background-color: #06aa48;
+}
+
+.destaque{
+  border-radius: 10px;
+  color: #fff;
+  padding-bottom: 1rem;
+}
+
+.destaque img{
+  border-radius: 10px 10px 0 0;
+}
+
+.destaque h3, .destaque span{
+  padding: 0 1rem;
+}
+
+.destaque-secao{
+  position: relative;
+}
+
+.destaque-secao::before{
+  content: "";
+  width: 4px;
+  height: 4px;
+  border-radius: 100%;
+  display: inline-block;
+  top: 8px;
+  position: absolute;
+  left: 0;
+  background-color: #fff;
 }
