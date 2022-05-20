@@ -131,6 +131,9 @@ main section h2{
 .bg-ge{
   background-color: #06aa48;
 }
+.bg-gshow{
+  background-color: #ff6700;
+}
 
 .destaque{
   border-radius: 10px;
@@ -160,4 +163,35 @@ main section h2{
   position: absolute;
   left: 0;
   background-color: #fff;
+}
+
+
+.noticia{
+  display: flex;
+  margin-top: 2em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.noticia img{
+  width: 40%;
+  border-radius: 10px;
+}
+
+.noticia h3{
+  margin-top: 0;
+}
+
+.noticia div{
+  padding: 0 10px 10px 10px;
+}
+
+.noticia span{
+  color: #6e727a;
+  font-size: 12px;
+  padding: 0 1rem;
+}
+
+.noticia .destaque-secao::before{
+  background-color: #6e727a;
 }
