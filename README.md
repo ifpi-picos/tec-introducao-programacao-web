@@ -15,30 +15,33 @@ Este material faz parte da disciplina de Introdução a Programação para Web d
   - [Autor](#autor)
 
 ## Agenda 
-| Aula | Data       | Assunto                            | Material                                                                                                            |
-| ---- | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    | 7/03/2022  | Plano de ensino e Introdução a Web | [plano de ensino](slides/1-plano-de-ensino.md), [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md) |
-| 2    | 11/03/2022 | HTML                               | [HTML](https://webdev.jesielviana.com/frontend/html), [slides](slides/3-html.md)                                    |
-| 3    | 15/03/2022 | HTML semântico                     | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                |
-| 4    | 18/03/2022 | CSS                                | [CSS](https://webdev.jesielviana.com/frontend/css), [slides](slides/4-css.md)                                       |
-| 5    | 22/03/2022 | CSS Flexbox                        | [CSS flexbox](https://origamid.com/projetos/flexbox-guia-completo/)                                                 |
-| 6    | 25/03/2022 | Prática HTML e CSS                 | -                                                                                                                   |
-| 7    | 29/03/2022 | HTML e CSS no Repl.it              | -                                                                                                                   |
-| 8    | 01/04/2022 | Acompanhamento da atividade 1      | -                                                                                                                   |
-| 9    | 05/04/2022 | Atividade 2                        | [Atividade portfólio](atividades/portifolio.md)                                                                     |
-| 10   | 12/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
-| 11   | 19/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
-| 12   | 26/04/2022 | Desenvolvimento do portfólio       | [Atividade portfólio](atividades/portifolio.md)                                                                     |
-| 13   | 29/04/2022 | Web Design Responsivo              | [Design Responsivo](https://webdev.jesielviana.com/frontend/web-design-responsivo)                                  |
-| 14   | 03/05/2022 | Apresentação da projeto            | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 15   | 06/05/2022 | Desenvolvimento do projeto         | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 16   | 10/05/2022 | Desenvolvimento do projeto         | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 17   | 13/05/2022 | Desenvolvimento do projeto         | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 18   | 17/05/2022 | Desenvolvimento do projeto         | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 19   | 20/05/2022 | Desenvolvimento do projeto         | [Projeto final](atividades/projeto-final.md)                                                                        |
-| 20   | 24/05/2022 | Avaliação                          | [Avaliação](atividades/avaliacao1)                                                                                  |
-| 21   | 27/05/2022 | Avaliação                          | [Avaliação](atividades/avaliacao1)                                                                                  |
-| 22   | 31/05/2022 | Revisão HTML e CSS                 | [Slides no Google Drive](https://drive.google.com/drive/folders/1heywmHy8YoN_G5r2wQbr282aYJ5FUzVq?usp=sharing)      |
+| Aula | Data       | Assunto                       | Material                                                                           |
+| ---- | ---------- | ----------------------------- | ---------------------------------------------------------------------------------- |
+| 1    | 7/03/2022  | Introdução a Web              | [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md)                |
+| 2    | 11/03/2022 | HTML                          | [HTML](https://webdev.jesielviana.com/frontend/html), [slides](slides/3-html.md)   |
+| 3    | 15/03/2022 | HTML semântico                | [HTML](https://webdev.jesielviana.com/frontend/html)                               |
+| 4    | 18/03/2022 | CSS                           | [CSS](https://webdev.jesielviana.com/frontend/css), [slides](slides/4-css.md)      |
+| 5    | 22/03/2022 | CSS Flexbox                   | [CSS flexbox](https://origamid.com/projetos/flexbox-guia-completo/)                |
+| 6    | 25/03/2022 | Prática HTML e CSS            | -                                                                                  |
+| 7    | 29/03/2022 | HTML e CSS no Repl.it         | -                                                                                  |
+| 8    | 01/04/2022 | Acompanhamento da atividade 1 | -                                                                                  |
+| 9    | 05/04/2022 | Atividade 2                   | [Atividade portfólio](atividades/portifolio.md)                                    |
+| 10   | 12/04/2022 | Desenvolvimento do portfólio  | [Atividade portfólio](atividades/portifolio.md)                                    |
+| 11   | 19/04/2022 | Desenvolvimento do portfólio  | [Atividade portfólio](atividades/portifolio.md)                                    |
+| 12   | 26/04/2022 | Desenvolvimento do portfólio  | [Atividade portfólio](atividades/portifolio.md)                                    |
+| 13   | 29/04/2022 | Web Design Responsivo         | [Design Responsivo](https://webdev.jesielviana.com/frontend/web-design-responsivo) |
+| 14   | 03/05/2022 | Apresentação da projeto       | [Projeto final](atividades/projeto-final.md)                                       |
+| 15   | 06/05/2022 | Desenvolvimento do projeto    | [Projeto final](atividades/projeto-final.md)                                       |
+| 16   | 10/05/2022 | Desenvolvimento do projeto    | [Projeto final](atividades/projeto-final.md)                                       |
+| 17   | 13/05/2022 | Desenvolvimento do projeto    | [Projeto final](atividades/projeto-final.md)                                       |
+| 18   | 17/05/2022 | Desenvolvimento do projeto    | [Projeto final](atividades/projeto-final.md)                                       |
+| 19   | 20/05/2022 | Desenvolvimento do projeto    | [Projeto final](atividades/projeto-final.md)                                       |
+| 20   | 24/05/2022 | Avaliação                     | [Avaliação](atividades/avaliacao1)                                                 |
+| 21   | 27/05/2022 | Avaliação                     | [Avaliação](atividades/avaliacao1)                                                 |
+| 22   | 31/05/2022 | Revisão HTML e CSS            | [Slides no Google Drive](https://bit.ly/3HaoLDI)                                   |
+| 23   | 03/06/2022 | Revisão Flexbox               | [CSS flexbox](https://origamid.com/projetos/flexbox-guia-completo/)                |
+| 24   | 07/06/2022 | Introdução ao Git e Github    | [curso grátis](https://bit.ly/3NGoyLb), [curso grátis](https://bit.ly/39lF04v)     |
+| 24   | 10/06/2022 | Git e Github na prática       | [slides](slides/5-git-github.md), [git e github](https://bit.ly/3mBfZ8l)           |
 
 
 
